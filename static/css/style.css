@@ -1,0 +1,19 @@
+#codeFile{
+    background-color: rgb(223, 221, 221);
+}
+
+.card-img-clickable {
+    cursor: pointer;
+}
+#formContainer{
+    background-color: rgb(231, 234, 238);
+}
+.hidden {
+    display: none;
+}
+
+#codeFile:hover {
+        background-color: inherit;
+        color: inherit;
+        text-decoration: none;
+}
