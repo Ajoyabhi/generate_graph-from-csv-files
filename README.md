@@ -23,7 +23,7 @@ Upload your csv file it will list the possible graph in the ui
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/repository.git
+   git clone https://github.com/Ajoyabhi/generate_graph-from-csv-files.git
 
 
 ## Contributing
